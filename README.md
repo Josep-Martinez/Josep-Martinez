@@ -1,73 +1,59 @@
-# 👋 Hello! I'm Josep Martinez
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+innovative+solutions;Always+learning+something+new)
+<div align="center">
+
+# Josep Martinez
+
+### Product Management · Digital Products · Data
+
+**Connecting customer needs, business goals, and technical delivery.**
+
+<a href="https://www.linkedin.com/in/josepmartinezboix/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.josepmartinezboix.com/">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio">
+</a>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## The direction I'm taking
 
-```javascript
-const josep = {
-    location: "Spain 🇪🇸",
-    code: ["JavaScript", "Python", "TypeScript", "Java", "PHP"],
-    tools: ["React", "Node.js", "Vue", "Docker", "AWS"],
-    architecture: ["microservices", "event-driven", "design patterns"],
-    currentFocus: "I'm diving deep into serverless architectures and AI/ML",
-    funFact: "I debug with console.log and I'm not ashamed of it 😅"
-};
-```
+My background is in data engineering and technical consulting. I'm now focused on **Product Management for digital products**: understanding what customers and businesses need, then helping turn those needs into products teams can deliver.
 
-## 🛠️ Tech Stack
+I bring a technical foundation to product conversations: I can work through data and platform constraints, ask sharper questions, and help make scope, risks, and trade-offs clear.
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+## What I bring
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+| Product perspective | Technical foundation | Delivery experience |
+| --- | --- | --- |
+| Customer needs, business goals, and product decisions | Data integration, MDM, and data quality | Scope and estimates, risks, testing, and release preparation |
+| Connecting product questions with technical context | Informatica IDMC and enterprise data platforms | Upgrades and on-premise to cloud migrations |
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## Selected projects
 
-## 📊 GitHub Statistics
+### [Alzan Health](https://alzanhealth.com/)
+A training and nutrition app with an AI layer.
 
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Josep-Martinez&theme=ocean-dark&hide_border=true)](https://git.io/streak-stats)
-  
-  
-  ![Josep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josep-Martinez&show_icons=true&theme=ocean_dark&hide_border=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josep-Martinez&layout=compact&theme=ocean_dark&hide_border=true)
-  
+### LipsTalk
+My Computer Engineering final project: a cross-platform lip-reading app integrating a visual speech-recognition model with a backend API.
 
-## 🎯 Featured Projects
+## Technical toolkit
 
-```yaml
-🔥 Currently working on:
-  - Modern web applications with React/Vue
-  - Microservices with Node.js and Docker
-  - API integration and cloud services
-  
-💡 Next goals:
-  - Deep dive into artificial intelligence
-  - Contribute more to open source projects
-  - Explore emerging technologies
-```
+**Data:** MDM · Data Integration · Data Quality · Informatica IDMC  
+**Languages and platforms:** SQL · Python · TypeScript · Azure · Databricks
 
-## 🌐 Connect with Me
+## Education
 
-  
-  [![Website](https://img.shields.io/badge/🌐_Portfolio-josepmartinezboix.com-blue?style=for-the-badge)](https://www.josepmartinezboix.com/)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josepmartinezboix)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@josepmartinezboix.com)
+- **Master's programme**, EDEM — currently studying
+- **Computer Engineering**, Universitat Politècnica de València
 
+---
 
+<div align="center">
 
-⭐️ From [Josep Martinez](https://github.com/Josep-Martinez) with ❤️
+**Interested in Product Management opportunities for digital products.**
+
+[LinkedIn](https://www.linkedin.com/in/josepmartinezboix/) · [Portfolio](https://www.josepmartinezboix.com/)
+
+</div>
