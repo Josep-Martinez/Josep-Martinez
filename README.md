@@ -1,59 +1,110 @@
 <div align="center">
 
-# Josep Martinez
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B1210&height=200&text=Josep%20Martinez%20Boix&fontColor=91C9A7&fontSize=44&fontAlignY=43&desc=ENGINEER%20%C2%B7%20BUILDER%20%C2%B7%20PRODUCT%20MINDSET&descColor=DCE5DE&descSize=14&descAlignY=68" alt="Josep Martinez Boix — Engineer, Builder, Product Mindset" />
 
-### Product Management · Digital Products · Data
+<br><br>
 
-**Connecting customer needs, business goals, and technical delivery.**
+**Data systems. Digital products. A technical foundation for Product Management.**
 
-<a href="https://www.linkedin.com/in/josepmartinezboix/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+<br>
+
 <a href="https://www.josepmartinezboix.com/">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio">
+  <img src="https://img.shields.io/badge/PORTFOLIO_%E2%86%97-91C9A7?style=for-the-badge&logoColor=0B1210" alt="Visit my portfolio">
 </a>
+&nbsp;
+<a href="https://www.linkedin.com/in/josepmartinezboix/">
+  <img src="https://img.shields.io/badge/LET'S_CONNECT_%E2%86%97-18251E?style=for-the-badge&logoColor=91C9A7" alt="Connect on LinkedIn">
+</a>
+
+<br><br>
+
+<code>DATA</code> &nbsp; / &nbsp; <code>PRODUCT</code> &nbsp; / &nbsp; <code>DELIVERY</code>
 
 </div>
 
----
+<br>
 
-## The direction I'm taking
+## 01 — The person behind the code
 
-My background is in data engineering and technical consulting. I'm now focused on **Product Management for digital products**: understanding what customers and businesses need, then helping turn those needs into products teams can deliver.
+My background combines **Computer Engineering, data engineering, and technical consulting**.
 
-I bring a technical foundation to product conversations: I can work through data and platform constraints, ask sharper questions, and help make scope, risks, and trade-offs clear.
+I've worked with enterprise data integration, Master Data Management, and data quality, alongside scope estimates, testing, release preparation, and cloud migrations.
 
-## What I bring
+My next direction is **Product Management for digital products**: connecting customer needs and business priorities with the realities of technical delivery.
 
-| Product perspective | Technical foundation | Delivery experience |
-| --- | --- | --- |
-| Customer needs, business goals, and product decisions | Data integration, MDM, and data quality | Scope and estimates, risks, testing, and release preparation |
-| Connecting product questions with technical context | Informatica IDMC and enterprise data platforms | Upgrades and on-premise to cloud migrations |
+🎓 Computer Engineering at **UPV** · Currently pursuing a master's at **EDEM**
 
-## Selected projects
+<br>
 
-### [Alzan Health](https://alzanhealth.com/)
-A training and nutrition app with an AI layer.
+## 02 — Selected work
 
-### LipsTalk
-My Computer Engineering final project: a cross-platform lip-reading app integrating a visual speech-recognition model with a backend API.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Technical toolkit
+### Alzan Health ↗
 
-**Data:** MDM · Data Integration · Data Quality · Informatica IDMC  
-**Languages and platforms:** SQL · Python · TypeScript · Azure · Databricks
+**Training · Nutrition · Applied AI**
 
-## Education
+A digital product bringing training, nutrition, and an AI layer together.
 
-- **Master's programme**, EDEM — currently studying
-- **Computer Engineering**, Universitat Politècnica de València
+[Explore the product →](https://alzanhealth.com/)
+
+</td>
+<td width="50%" valign="top">
+
+### LipsTalk ↗
+
+**Mobile · APIs · Machine Learning**
+
+My final degree project: a cross-platform lip-reading app integrating a visual speech-recognition model with a backend API.
+
+[Explore my work →](https://www.josepmartinezboix.com/projects)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 03 — What I bring to the table
+
+| Area | Experience I bring |
+| :--- | :--- |
+| **Enterprise data** | Data integration, MDM, data quality, and Informatica IDMC |
+| **Delivery** | Scope estimates, risk communication, testing, and release preparation |
+| **Technical change** | Support for platform upgrades and on-premise to cloud migrations |
+| **Building** | Applications connecting interfaces, backend APIs, and AI models |
+
+<br>
+
+## 04 — Technical foundation
+
+<p>
+  <img src="https://img.shields.io/badge/Python-18251E?style=flat-square&logo=python&logoColor=91C9A7" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-18251E?style=flat-square&logoColor=91C9A7" alt="SQL">
+  <img src="https://img.shields.io/badge/TypeScript-18251E?style=flat-square&logo=typescript&logoColor=91C9A7" alt="TypeScript">
+  <img src="https://img.shields.io/badge/FastAPI-18251E?style=flat-square&logo=fastapi&logoColor=91C9A7" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Azure-18251E?style=flat-square&logoColor=91C9A7" alt="Azure">
+  <img src="https://img.shields.io/badge/Databricks-18251E?style=flat-square&logo=databricks&logoColor=91C9A7" alt="Databricks">
+  <img src="https://img.shields.io/badge/Informatica_IDMC-18251E?style=flat-square&logoColor=91C9A7" alt="Informatica IDMC">
+</p>
+
+<br>
 
 ---
 
 <div align="center">
 
-**Interested in Product Management opportunities for digital products.**
+### Let's build the next chapter.
 
-[LinkedIn](https://www.linkedin.com/in/josepmartinezboix/) · [Portfolio](https://www.josepmartinezboix.com/)
+I'm interested in **Product Management opportunities for digital products**  
+where technical depth helps turn ideas into decisions and delivery.
+
+[Portfolio ↗](https://www.josepmartinezboix.com/) &nbsp; · &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/josepmartinezboix/)
+
+<br>
+
+<sub>ENGINEERING FOUNDATION · PRODUCT DIRECTION · CONTINUOUS LEARNING</sub>
 
 </div>
